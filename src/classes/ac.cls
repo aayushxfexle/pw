@@ -8,3 +8,8 @@ public class AccountHandler {
 	}
 }
 // alice branch code
+	public void addContact(Contact con) {
+        System.debug('Adding contact: ' + con.LastName);
+	}
+
+// bob branch
